@@ -10,7 +10,7 @@ using System.Collections.ObjectModel;
 using System.Globalization;
 using ObjCRuntime;
 
-namespace Library.ECommerceApp.Services
+namespace Library.MobileEcommerce
 {
     public class CartService : Service<Cart>, ICartService
     {
